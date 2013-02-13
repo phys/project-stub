@@ -1,7 +1,7 @@
 Minimal configs and folders to start BEM project
 ================================================
 
-### Usage
+### Использование
 
     › git clone git://github.com/bem/project-stub.git
     › cd project-stub
