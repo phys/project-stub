@@ -26,4 +26,4 @@ of your working copy. After that your could start server:
 
 BEM is abbreviation for Block-Element-Modifier. It's a way to write code which is easy to support and develop.
 
-For more info about BEM metodology see [bem.info](http://bem.info/).
+Больше информации о методологии БЭМ на [bem.info](http://bem.info/).
